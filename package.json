@@ -40,7 +40,7 @@
   "dependencies": {
     "asn1js": "git+https://github.com/KeeeX/ASN1.js.git#releases",
     "bytestreamjs": "git+https://github.com/KeeeX/ByteStream.js.git#releases",
-    "pvutils": "latest"
+    "pvutils": "git+https://github.com/KeeeX/pvutils.git#releases"
   },
   "engines": {
     "node": ">=6.0.0"
